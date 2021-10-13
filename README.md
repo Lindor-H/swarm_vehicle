@@ -1,5 +1,7 @@
 # Assignment 1: Gliding in Space
 
+Can excute '''build/debug/swarm.exe''' to run this program after setting environment.
+
 Repository for [COMP2310 assignment 1 "Gliding in Space"](https://cs.anu.edu.au/courses/comp2310/assessment/assignment1/).
 
 ![swarm_example.png](https://i.loli.net/2021/10/13/vJxHEfuk95m2QSz.png)
