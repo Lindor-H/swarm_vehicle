@@ -11,7 +11,7 @@ Repository for [COMP2310 assignment 1 "Gliding in Space"](https://cs.anu.edu.au/
 
 To build in GNAT Studio, do as you always have for the labs. The `Scenario` tab allows you to configure the build mode and platform (see below for description).
 
-![Screenshot of GNAT Studio scenario config](./swarm_vehicle/resources/images/gnatstudio_scenario_config.png)
+![Screenshot of GNAT Studio scenario config](/resources/images/gnatstudio_scenario_config.png)
 
 
 ### Manually
