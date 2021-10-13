@@ -2,7 +2,7 @@
 
 Repository for [COMP2310 assignment 1 "Gliding in Space"](https://cs.anu.edu.au/courses/comp2310/assessment/assignment1/).
 
-![Screenshot of swarm program](./resources/images/swarm_example.png)
+![swarm_example.png](https://i.loli.net/2021/10/13/vJxHEfuk95m2QSz.png)
 
 
 ## Building
@@ -11,7 +11,7 @@ Repository for [COMP2310 assignment 1 "Gliding in Space"](https://cs.anu.edu.au/
 
 To build in GNAT Studio, do as you always have for the labs. The `Scenario` tab allows you to configure the build mode and platform (see below for description).
 
-![Screenshot of GNAT Studio scenario config](/resources/images/gnatstudio_scenario_config.png)
+![gnatstudio_scenario_config.png](https://i.loli.net/2021/10/13/c8XZ3eCPYkxIN45.png)
 
 
 ### Manually
